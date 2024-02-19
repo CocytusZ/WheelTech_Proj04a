@@ -1,4 +1,4 @@
-# Upload files
+# Git Upload files
 
 1. git clone branch 到本地
    
@@ -10,7 +10,7 @@ git branch
 3. 切换本地分支
 ```{.sh}
 git checkout <分支名>
-
+Git
 # e.g.
 git checkout main
 ```
